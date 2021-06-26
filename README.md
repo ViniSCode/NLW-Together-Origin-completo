@@ -13,17 +13,15 @@ As paletas de cores do site podem ser facilmente alteradas, o site foi desenvolv
 
 # Imagens do Projeto Desktop
 ![enter image description here](https://github.com/ViniSCode/nlw-together-Origin/blob/main/Project%20Images/ProjectImageDesktop.PNG?raw=true)
-
-OBS: alguns dos ícones utilizados no projeto (na seção services) não estão funcionando direito no vercel. se quiser ver o projeto com os ícones 
-funcionando, baixe o código e abra o arquivo index.html
-
+## Veja [aqui](https://nlw-together-origin-completo.vercel.app/) o projeto pronto
 
 # Imagens do Projeto Mobile
 ![enter image description here](https://github.com/ViniSCode/nlw-together-Origin/blob/main/Project%20Images/ProjectImageMobileNoBg.png?raw=true)
-
+ ## Veja [aqui](https://nlw-together-origin-completo.vercel.app/) o projeto pronto
 <br>
 
 ## Como abrir o projeto?
+## abra esse link ## Veja [aqui](https://nlw-together-origin-completo.vercel.app/) o projeto pronto
 ### faça download do meu codigo, extraia-o e abra o index.html
 
 
@@ -40,4 +38,5 @@ a Rocketseat vem me ajudando muito nesse meu início, quero parabenizar o trabal
 
 e um abraço especial para o Mayk Brito, ele é fera 💜
 
+ ## Veja [aqui](https://nlw-together-origin-completo.vercel.app/) o projeto pronto
 
